@@ -18,18 +18,23 @@ The script includes the following visualizations:
 
 ###  Simple histogram of car heights.
 ###  Customized histogram of car heights with specific breaks, axis limits, colors, and labels.
+![PieChart](1.png)
 ###  Pie Charts
-
-###  Pie chart of car driveline types.
-###  Pie chart of iris species.
+![PieChart](2.png)
 ###  Scatter Plots
-
+![PieChart](3.png)
 ###  2D scatter plots of car dimensions and iris measurements.
+![PieChart](4.png)
 ###  Pairwise scatter plot matrices for cars and iris datasets.
+![PieChart](5.png)
 ###  3D Scatter Plot
+![PieChart](6.png)
 
 ###  3D scatter plot of iris measurements.
+![PieChart](7.png)
 ###  Contour and Perspective Plots
 
 ###  Filled contour plot of the volcano dataset.
+![PieChart](8.png)
 ###  3D perspective plot of the volcano dataset.
+![PieChart](9.png)
